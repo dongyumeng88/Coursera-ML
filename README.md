@@ -17,7 +17,7 @@ Advice on building a machine learning system
 
 ## Projects
 1.	Build a logistic regression model to predict whether a student gets admitted into a university
-2.	Implemented logistic regression to predict whether microchips from a fabrication plat passes quality assurance
+2.	Implement logistic regression to predict whether microchips from a fabrication plat passes quality assurance
 3.	Implement one-vs-all logistic regression and neural networks to recognize hand-written digits
 4.	Implement backpropagation algorithm for neural networks and apply it to the task of handwritten digit recognition
 5.	Debug the learning algorithms by examining the effects of bias vs variance and plotting learning curves
